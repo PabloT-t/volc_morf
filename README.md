@@ -1,1 +1,0 @@
-Jupyter notebooks usados en tesis de analisis de centros eruptivos menores. Incluye aplicacion de analisis de densidad espacial(KDE), aplicaciones de k-means, matriz de correlacion y graficos elaborados en python.
